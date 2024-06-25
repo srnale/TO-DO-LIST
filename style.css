@@ -91,7 +91,7 @@ margin-right: 20px;
     width: 28px;
     border-radius: 50%;
    border: 2px solid #555;
-    background-image: url(unchecked.png)
+    background-image: url(/pictures/unchecked.png)
     
     
 }
@@ -103,7 +103,7 @@ margin-right: 20px;
 }
 ul li.checked::before{
     background-size: cover;
-    background-image: url(checked.png);
+    background-image: url(pictures/checked.png);
 }
 
 ul li span{
